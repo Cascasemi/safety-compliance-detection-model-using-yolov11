@@ -94,3 +94,14 @@ Real-world deployment tests confirm its effectiveness in identifying non-complia
 
 This research presents a robust safety compliance detection model leveraging YOLOv11. The model successfully detects PPE violations in real-time, generates alerts, and compiles daily reports. Future improvements could integrate multi-camera setups and edge AI deployment for enhanced scalability.
 
+## 6. REFERENCES
+
+1. **Original YOLO Paper**:
+   - Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). "You Only Look Once: Unified, Real-Time Object Detection." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 779-788. [Link](https://arxiv.org/abs/1506.02640)
+
+2. **YOLOv11 Official Documentation**:
+   - Ultralytics. "YOLO11 NEW - Ultralytics YOLO Docs." [Link](https://docs.ultralytics.com/models/yolo11/)
+
+3. **Custom Training Pipeline Resources**:
+   - Ultralytics. "Python Usage - Ultralytics YOLO Docs." [Link](https://docs.ultralytics.com/usage/python/)
+
